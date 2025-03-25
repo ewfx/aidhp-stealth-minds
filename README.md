@@ -25,8 +25,9 @@ Modern customers expect highly personalized experiences that cater to their uniq
 
 ## 💡 Inspiration
 E-commerce, finance, and digital platforms need advanced personalization, but current solutions rely on rigid rule-based or collaborative filtering approaches
+By leveraging AI-driven data analysis, we aim to create a system that understands user preferences more accurately, providing tailored recommendations in real-time. 
 
-We use Generative AI and Multi-Modal Learning to enhance recommendation quality by incorporating structured and unstructured data sources.
+This project is motivated by the potential of AI to bridge the gap between user intent and content delivery, ultimately improving customer experience and business efficiency.
 
 ## ⚙️ What It Does
 •	Customer Segmentation: Clusters users based on transactions, social media sentiment, and profiles.
