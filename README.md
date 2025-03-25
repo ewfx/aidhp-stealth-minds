@@ -81,12 +81,16 @@ Programming Language: Python
 
 Frameworks & Libraries:
 	•	Synthetic Data Generation: SDV (CTGANSynthesizer)
-	•	Feature Engineering: Pandas, NumPy, NLTK, Transformers,Huggingface, sentence transformers (distilbert-base-uncased,all-       mpnet-base-v2)
+	•	Feature Engineering: Pandas, NumPy, NLTK, Transformers,Huggingface, sentence transformers 
+ 		(distilbert-base-uncased,all-       mpnet-base-v2)
 	•	RAG-Based Recommendation: FAISS, LangChain, GPT-2, Mistral
 	•	Frontend: Streamlit
 	•	Bias Detection: AI Fairness 360
 	•	Benchmarking
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- Mahesh Gain - [GitHub](#) | [LinkedIn](#)
+- Dhanalakshmi Rajapandiyan - [GitHub](#) | [LinkedIn](#)
+- Ravali Verghese - [GitHub](#) | [LinkedIn](#)
+- Smita Singh  - [GitHub](#) | [LinkedIn](#)
+- Sathyapriya Varadharaj - [GitHub](#) | [LinkedIn](#)
