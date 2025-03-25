@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 AI-Driven Hyper-Personalization & Recommendations
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
