@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Modern customers expect highly personalized experiences that cater to their unique preferences. We are developing a Generative AI-driven solution that enhances hyper-personalization by analyzing customer profiles, social media activity, purchase history, sentiment data and demographic details. The challenge is to design a system that generates personalized recommendations for products, services or content while also providing actionable insights for business to optimize customer engagement.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -24,16 +24,25 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+E-commerce, finance, and digital platforms need advanced personalization, but current solutions rely on rigid rule-based or collaborative filtering approaches
+
+We use Generative AI and Multi-Modal Learning to enhance recommendation quality by incorporating structured and unstructured data sources.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+•	Customer Segmentation: Clusters users based on transactions, social media sentiment, and profiles.
+•	Personalized Recommendations: Uses a RAG-based LLM system to generate targeted offers.
+•	Data Ingestion & Preprocessing: Handles structured (CSV) and unstructured (social media text) data.
+•	Ethical AI & Fairness Checks: Integrates AI Fairness 360 to detect bias in recommendations.
 
 ## 🛠️ How We Built It
 Briefly outline the technologies, frameworks, and tools used in development.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+•	Multi-Modal Data Handling: Merging structured and unstructured data seamlessly.
+•	Efficient Retrieval in RAG: Optimizing FAISS for real-time recommendations.
+•	Ethical Considerations: Ensuring fairness in recommendations.
+•	LLM Constraints: Avoiding paid APIs and focusing on open-source models.
+
 
 ## 🏃 How to Run
 1. Clone the repository  
