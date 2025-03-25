@@ -35,7 +35,13 @@ We use Generative AI and Multi-Modal Learning to enhance recommendation quality 
 •	Ethical AI & Fairness Checks: Integrates AI Fairness 360 to detect bias in recommendations.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Programming Language: Python
+Frameworks & Libraries:
+•	Synthetic Data Generation: SDV (Synthetic Data Vault)
+•	Feature Engineering: Pandas, NumPy, NLTK, Transformers (Hugging Face)
+•	RAG-Based Recommendation: FAISS, LangChain, GPT-J / FLAN-T5
+•	Frontend: Streamlit
+•	Bias Detection: AI Fairness 360
 
 ## 🚧 Challenges We Faced
 •	Multi-Modal Data Handling: Merging structured and unstructured data seamlessly.
@@ -59,11 +65,11 @@ Briefly outline the technologies, frameworks, and tools used in development.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- Mahesh Gain - [GitHub](#) | [LinkedIn](#)
+- Dhanalakshmi Rajapandiyan - [GitHub](#) | [LinkedIn](#)
+- Ravali Verghese - [GitHub](#) | [LinkedIn](#)
+- Smita Singh - [GitHub](#) | [LinkedIn](#)
+- Sathyapriya Varadharaj - [GitHub](#) | [LinkedIn](#)
