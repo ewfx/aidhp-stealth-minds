@@ -58,10 +58,15 @@ Step 6 : Benchmarking
 
 ## 🚧 Challenges We Faced and how we tackled
 •	Dataset limitations as the dataset were readily available we used artificial data synthesizer to generate the data using CTGANSynthesizer and SingleTableMetadata
+
 •	Multi-Modal Data Handling: handling structured and unstructured text data.
+
 •	Efficient Retrieval in RAG: Used all-mpnet-base-v2 over distilbert-base-uncased for better embeddings and FAISS for faster retrieving of index.
+
 •	Used Mistral or GPT2 for better recommendations 
+
 •	Ethical Considerations: Ensuring fairness in recommendations.
+
 •	LLM Constraints: Avoiding paid APIs and focusing on open-source models.
 
 ## 🏃 How to Run
@@ -83,11 +88,16 @@ Programming Language: Python
 
 Frameworks & Libraries:
 	•	Synthetic Data Generation: SDV (CTGANSynthesizer)
+ 
 	•	Feature Engineering: Pandas, NumPy, NLTK, Transformers,Huggingface, sentence transformers 
  		(distilbert-base-uncased,all-       mpnet-base-v2)
+   
 	•	RAG-Based Recommendation: FAISS, LangChain, GPT-2, Mistral
+ 
 	•	Frontend: Streamlit
+ 
 	•	Bias Detection: AI Fairness 360
+ 
 	•	Benchmarking
 
 ## 👥 Team
