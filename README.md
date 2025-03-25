@@ -28,7 +28,9 @@ By leveraging AI-driven data analysis, we aim to create a system that understand
 
 ## ⚙️ What It Does
 •	Personalized Recommendations: Uses a RAG-based LLM system to generate targeted offers.
+
 •	Data Ingestion & Preprocessing: Multi-Modal  Learning to enhance recommendation quality by incorporating structured and unstructured data sources.
+
 •	Ethical AI & Fairness Checks: Integrates AI Fairness 360 to detect bias in recommendations.
 
 ## 🛠️ How We Built It
