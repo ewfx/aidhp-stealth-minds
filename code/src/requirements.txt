@@ -1,1 +1,13 @@
-
+streamlit
+pandas
+numpy
+faiss-cpu
+aif360
+sentence-transformers
+torch
+transformers
+xgboost
+sklearn
+huggingface-hub
+bitsandbytes
+accelerate
