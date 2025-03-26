@@ -1,3 +1,3 @@
-## Delete this file
+To run this script, run the following command
+pytest -v
 
-Instead place your test files here
