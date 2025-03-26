@@ -128,7 +128,7 @@ Frameworks & Libraries:
 
 
 ## 👥 Team
-- Mahesh Gain - [GitHub](#) | [LinkedIn](#)
+- Mahesh Kumar Gain - [GitHub](#) | [LinkedIn](#)
 - Dhanalakshmi Rajapandiyan - [GitHub](#) | [LinkedIn](#)
 - Ravali Verghese - [GitHub](#) | [LinkedIn](#)
 - Smita Singh  - [GitHub](#) | [LinkedIn](#)
