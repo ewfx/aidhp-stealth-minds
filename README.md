@@ -22,9 +22,9 @@ This problem statement is about Generative AI-driven solution that enhances hype
 	
  	https://drive.google.com/file/d/1nZ8oKBFips9yb6i-ePCjLgguOaf5JQad/view?usp=drive_link
 
-  	https://github.com/ewfx/aidhp-stealth-minds/blob/main/artifacts/demo/DemoVideo.txt
+  	https://github.com/ewfx/aidhp-stealth-minds/blob/main/artifacts/demo/DemoVideo.mkv
 
-![Screenshot 1](link-to-image)
+
 
 ## 💡 Inspiration
 By leveraging AI-driven data analysis, we aim to create a system that understands user preferences more accurately, providing tailored recommendations in real-time.This project is motivated by the potential of AI to bridge the gap between user intent and content delivery, ultimately improving customer experience and business efficiency.
