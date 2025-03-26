@@ -65,13 +65,13 @@ Step 5: Ethical Checks
 Step 6 : Benchmarking
 
 ## 🚧 Challenges We Faced and how we tackled
-•	Dataset limitations as the dataset were readily available we used artificial data synthesizer to generate the data using CTGANSynthesizer and SingleTableMetadata
+•	Dataset limitations as the dataset were readily available we used artificial data synthesizer to generate the data 	using CTGANSynthesizer and SingleTableMetadata
 
-•	Mistral model with T4 GPU was consuming too much of time to generate recommendation for a single customer record and as part of optimization we used 4 bit quantization and max_new_tokens is set to 256
+•	Mistral model with T4 GPU was consuming too much of time to generate recommendation for a single customer record and 	as part of optimization we used 4 bit quantization and max_new_tokens is set to 256
 
 •	Multi-Modal Data Handling: handling structured and unstructured text data.
 
-•	Efficient Retrieval in RAG: Used all-mpnet-base-v2 over distilbert-base-uncased for better embeddings and FAISS for faster retrieving of index.
+•	Efficient Retrieval in RAG: Used all-mpnet-base-v2 over distilbert-base-uncased for better embeddings and FAISS for 	faster retrieving of index.
 
 •	Used Mistral or GPT2 for better recommendations 
 
@@ -86,11 +86,11 @@ Step 6 : Benchmarking
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt (for Python)
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   streamlit run app.py
    ```
 
 ## 🏗️ Tech Stack
@@ -110,6 +110,19 @@ Frameworks & Libraries:
 	•	Bias Detection: AI Fairness 360
  
 	•	Benchmarking
+
+ ## 🏗️ Future Scope
+ 
+ 	•	Add RLHF (Reinforcement Learning from Human Feedback) for fine-tuning.
+  
+  	•	Model monitoring dashboard
+   
+	•	Auto-scaling infrastructure components
+ 
+	•	API endpoints for system integration
+ 
+	•	Extend to multi-modal outputs (e.g., generate images with Stable Diffusion).
+
 
 ## 👥 Team
 - Mahesh Gain - [GitHub](#) | [LinkedIn](#)
