@@ -19,7 +19,10 @@ This problem statement is about Generative AI-driven solution that enhances hype
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+	
+ 	https://drive.google.com/file/d/1nZ8oKBFips9yb6i-ePCjLgguOaf5JQad/view?usp=drive_link
+
+  	https://github.com/ewfx/aidhp-stealth-minds/blob/main/artifacts/demo/DemoVideo.txt
 
 ![Screenshot 1](link-to-image)
 
