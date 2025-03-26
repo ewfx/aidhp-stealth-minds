@@ -1,0 +1,1001 @@
+customer_id,age,gender,location,interests,income,education,occupation
+12308363,32,Female,San Francisco,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,Engineer
+14132394,32,Female,New York,"Gaming, Tech Gadgets,Streaming Subscriptions",94260,MBA,Financial Advisor
+14703890,32,Female,Portland,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Financial Advisor
+5976098,32,Female,San Francisco,"Financial Planning, Real Estate Investments, Retirement",124829,MBA,Engineer
+13251058,32,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+14034102,32,Male,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,Financial Advisor
+14882148,32,Male,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",98335,MBA,Marketing Manager
+14652674,32,Male,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,MBA,CEO
+5985631,32,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+4451108,32,Female,San Francisco,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Engineer
+198822,38,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,MBA,CEO
+1103340,32,Male,New York,"Budget Shopping, Mortgage Payments, Education",75000,MBA,Financial Advisor
+14204281,32,Male,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+12442439,39,Female,San Francisco,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Engineer
+12830098,32,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",93390,Masters,Engineer
+12953903,33,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+3622706,43,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+16436757,32,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",90617,Masters,Engineer
+16556279,45,Male,Portland,"Budget Shopping, Mortgage Payments, Education",75000,MBA,Financial Advisor
+2220630,32,Male,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,MBA,CEO
+15496602,37,Male,Portland,"Budget Shopping, Mortgage Payments, Education",75000,MBA,Financial Advisor
+12107909,35,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",98642,MBA,Financial Advisor
+3529396,32,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+2545637,45,Male,Portland,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Engineer
+5130186,32,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+6505183,32,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+16010028,38,Male,New York,"Gaming, Tech Gadgets,Streaming Subscriptions",95835,MBA,Engineer
+7727082,32,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",111791,Masters,Retired with Pension
+14570931,38,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+6222479,32,Male,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+8383759,37,Male,Portland,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Financial Advisor
+4025977,32,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+4421148,32,Female,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+13953661,45,Male,Austin,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+8552943,32,Female,San Francisco,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,CEO
+14537040,34,Female,New York,"Financial Planning, Real Estate Investments, Retirement",125000,MBA,CEO
+2918641,32,Male,New York,"Financial Planning, Real Estate Investments, Retirement",125000,MBA,CEO
+2898520,32,Female,New York,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,Engineer
+14589603,45,Female,Portland,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Engineer
+14445108,45,Female,Portland,"Budget Shopping, Mortgage Payments, Education",75235,Graduate,Financial Advisor
+12796407,32,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",96816,MBA,Financial Advisor
+15678925,39,Female,San Francisco,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,Engineer
+11154267,32,Male,New York,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,Engineer
+7544080,32,Female,New York,"Financial Planning, Real Estate Investments, Retirement",125000,MBA,Financial Advisor
+7029631,32,Female,San Francisco,"Financial Planning, Real Estate Investments, Retirement",125000,Masters,Engineer
+10126470,38,Female,San Francisco,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Engineer
+9180731,32,Female,New York,Tech Gadgets,125000,Masters,Financial Advisor
+5902982,32,Female,San Francisco,Tech Gadgets,111579,Masters,Engineer
+10552414,32,Female,New York,Luxury Shopping and Travel,106950,Masters,Engineer
+6298795,45,Female,New York,Tech Gadgets,125000,Masters,Engineer
+2611086,32,Female,New York,Tech Gadgets,125000,MBA,Financial Advisor
+11940689,32,Male,San Francisco,Tech Gadgets,125000,MBA,Engineer
+8966222,32,Male,San Francisco,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+12033540,37,Male,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Financial Advisor
+2399634,45,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",85899,Masters,Engineer
+14358084,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+899018,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Financial Advisor
+8088946,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+4570941,33,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+7830625,32,Male,San Francisco,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Financial Advisor
+15555633,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+8872251,45,Female,New York,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Financial Advisor
+5525198,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Financial Advisor
+6986696,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+2083601,32,Male,New York,"Budget Shopping, Mortgage Payments, Education",76048,MBA,Financial Advisor
+3727171,45,Female,Chicago,"Professional Development, Wellness, Family activities",125000,MBA,Engineer
+15055241,38,Female,Chicago,"Professional Development, Wellness, Family activities",111952,MBA,Engineer
+8245780,32,Male,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+1949541,32,Female,Chicago,"Professional Development, Wellness, Family activities",116046,Masters,Engineer
+14521042,32,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",84500,Masters,Engineer
+3952157,45,Female,New York,"Budget Shopping, Mortgage Payments, Education",77705,MBA,Financial Advisor
+11923023,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+5036782,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Financial Advisor
+10730128,33,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",96799,Masters,Financial Advisor
+3413741,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+4182350,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,MBA,Engineer
+5561269,45,Female,Chicago,"Professional Development, Wellness, Family activities",125000,MBA,Financial Advisor
+8761840,32,Female,Chicago,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+9435076,33,Female,San Francisco,"Professional Development, Wellness, Family activities",125000,MBA,Engineer
+3568205,45,Female,New York,"Gaming, Tech Gadgets,Streaming Subscriptions",85208,Masters,Financial Advisor
+8345325,42,Male,San Francisco,"Professional Development, Wellness, Family activities",112384,MBA,Financial Advisor
+16235155,33,Female,San Francisco,"Professional Development, Wellness, Family activities",123870,Masters,Engineer
+12522756,33,Female,San Francisco,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+3976485,32,Male,San Francisco,"Professional Development, Wellness, Family activities",125000,MBA,Financial Advisor
+13328262,32,Male,Portland,"Budget Shopping, Mortgage Payments, Education",75000,MBA,Financial Advisor
+14326084,32,Female,New York,"Professional Development, Wellness, Family activities",125000,MBA,Financial Advisor
+2592347,45,Male,San Francisco,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+16337951,42,Female,Los Angeles,Luxury Shopping and Travel,105780,Masters,Engineer
+14244014,32,Male,San Francisco,"Professional Development, Wellness, Family activities",125000,MBA,Engineer
+15508967,32,Male,New York,"Professional Development, Wellness, Family activities",125000,MBA,Financial Advisor
+10403583,32,Female,San Francisco,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+14252730,37,Female,New York,"Professional Development, Wellness, Family activities",125000,Masters,Engineer
+5915460,32,Female,Portland,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Financial Advisor
+9766232,38,Male,Seattle,"Gaming, Tech Gadgets,Streaming Subscriptions",84816,Masters,Engineer
+14517697,39,Female,Portland,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Engineer
+15065843,33,Male,Portland,"Budget Shopping, Mortgage Payments, Education",75000,MBA,Financial Advisor
+320739,32,Female,San Francisco,"Professional Development, Wellness, Family activities",125000,Masters,Social Media Influencer
+2373497,45,Female,San Francisco,"Professional Development, Wellness, Family activities",125000,MBA,Social Media Influencer
+14545292,32,Female,San Francisco,"Professional Development, Wellness, Family activities",125000,Masters,Social Media Influencer
+10183919,32,Female,San Francisco,"Professional Development, Wellness, Family activities",125000,Masters,Social Media Influencer
+8661943,32,Male,San Francisco,"Professional Development, Wellness, Family activities",125000,Masters,Social Media Influencer
+8478357,32,Female,San Francisco,"Professional Development, Wellness, Family activities",125000,Masters,Social Media Influencer
+7633020,35,Female,San Francisco,"Professional Development, Wellness, Family activities",123161,MBA,Social Media Influencer
+8937327,32,Female,Boston,"Professional Development, Wellness, Family activities",125000,MBA,Social Media Influencer
+13333838,33,Female,Boston,"Professional Development, Wellness, Family activities",125000,MBA,Social Media Influencer
+2133213,32,Female,San Francisco,"Budget Shopping, Mortgage Payments, Education",75000,MBA,Financial Advisor
+8553955,32,Male,New York,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Engineer
+7602951,39,Female,Boston,"Professional Development, Wellness, Family activities",125000,Masters,Social Media Influencer
+5903843,32,Female,Boston,"Professional Development, Wellness, Family activities",125000,MBA,Social Media Influencer
+8590065,38,Female,Boston,"Professional Development, Wellness, Family activities",125000,Masters,Social Media Influencer
+1438724,32,Female,Boston,"Professional Development, Wellness, Family activities",125000,Masters,Social Media Influencer
+10843710,32,Female,Boston,Tech Gadgets,112229,MBA,Financial Advisor
+3569740,38,Female,Boston,Tech Gadgets,125000,MBA,Social Media Influencer
+3007759,45,Female,Boston,Luxury Shopping and Travel,124158,Masters,Social Media Influencer
+10320815,45,Female,San Francisco,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Financial Advisor
+7540529,36,Female,Boston,Tech Gadgets,125000,Masters,Social Media Influencer
+2686283,32,Female,Boston,Luxury Shopping and Travel,125000,Masters,Engineer
+15406666,32,Female,Boston,Luxury Shopping and Travel,115154,Masters,Engineer
+5872864,39,Female,Boston,Luxury Shopping and Travel,125000,Masters,Engineer
+12964863,32,Female,Boston,Tech Gadgets,125000,MBA,Engineer
+9727605,32,Female,Boston,Tech Gadgets,125000,Masters,Engineer
+12887953,32,Female,Boston,Tech Gadgets,125000,Masters,Financial Advisor
+11351733,32,Female,San Francisco,"Budget Shopping, Mortgage Payments, Education",75000,Masters,Financial Advisor
+14715707,32,Female,Boston,Tech Gadgets,125000,MBA,Engineer
+2939709,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+5809792,40,Female,Denver,"Budget Shopping, Mortgage Payments, Education",76809,Masters,Engineer
+3528504,32,Male,Denver,"Budget Shopping, Mortgage Payments, Education",75000,MBA,Engineer
+4626374,32,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+9632224,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Financial Advisor
+7343279,32,Male,New York,"Fine Dining, Luxury Travels, High- End Gadgets",113016,MBA,Travel blogger
+10285997,44,Male,Denver,"Budget Shopping, Mortgage Payments, Education",75000,MBA,Financial Advisor
+8592083,38,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+13802412,45,Female,Seattle,"Budget Shopping, Mortgage Payments, Education",79505,Masters,Financial Advisor
+10575125,32,Female,New York,"Fine Dining, Luxury Travels, High- End Gadgets",110958,MBA,Financial Advisor
+4329499,45,Female,Denver,"Budget Shopping, Mortgage Payments, Education",75000,MBA,Engineer
+11629153,32,Male,Los Angeles,"Gaming, Tech Gadgets,Streaming Subscriptions",92764,MBA,Financial Advisor
+4527722,36,Female,New York,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+7753358,32,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",119037,Masters,Engineer
+12500316,44,Female,Los Angeles,"Gaming, Tech Gadgets,Streaming Subscriptions",93413,Masters,Financial Advisor
+13609092,45,Female,New York,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+208292,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+2590906,34,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+15263543,40,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+9168742,32,Female,New York,"Fine Dining, Luxury Travels, High- End Gadgets",117836,Masters,Engineer
+8966997,32,Female,Los Angeles,Tech Gadgets,101745,Masters,Engineer
+13708794,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+14588757,32,Female,New York,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+3279349,38,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+13098415,32,Female,Los Angeles,"Gaming, Tech Gadgets,Streaming Subscriptions",98046,Masters,Engineer
+5532454,45,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+6271780,38,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+4689601,32,Male,Seattle,"Gaming, Tech Gadgets,Streaming Subscriptions",83305,Masters,Engineer
+6416097,45,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+13354180,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+7213352,32,Female,Denver,"Budget Shopping, Mortgage Payments, Education",75000,MBA,Engineer
+5241782,32,Female,Seattle,Tech Gadgets,77162,MBA,Engineer
+9340927,32,Female,Denver,Tech Gadgets,75000,MBA,Financial Advisor
+10905195,45,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+2175046,32,Female,Denver,Tech Gadgets,75000,Masters,Engineer
+8571665,32,Male,Seattle,"Gaming, Tech Gadgets,Streaming Subscriptions",83911,Masters,Engineer
+2307459,34,Male,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+2761459,38,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+479400,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",113389,Masters,Engineer
+13907564,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",113236,Masters,Engineer
+4913464,32,Female,Los Angeles,Tech Gadgets,100530,Masters,Engineer
+9012661,45,Male,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+8530886,33,Female,Los Angeles,Luxury Shopping and Travel,104115,Masters,Engineer
+6304260,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",121643,MBA,Financial Advisor
+4671370,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",120782,Masters,Engineer
+15519161,43,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+13284308,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+12047319,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+13996105,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+5237348,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+7763384,32,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+11900806,45,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+3692309,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Financial Advisor
+983631,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+8475769,32,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+10908490,34,Female,New York,"Gaming, Tech Gadgets,Streaming Subscriptions",90763,Graduate,Engineer
+14722068,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+10427237,33,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+8394033,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+4386887,36,Female,New York,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+15895356,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",118025,MBA,Engineer
+6347793,37,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+1174461,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",118819,MBA,Engineer
+2746730,45,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",90539,Masters,Financial Advisor
+2765160,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+11197178,32,Male,Seattle,"Gaming, Tech Gadgets,Streaming Subscriptions",89705,Masters,Engineer
+11512371,40,Male,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+1067683,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+4883369,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+68952,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+7704425,32,Female,Los Angeles,Tech Gadgets,107335,Masters,Engineer
+6483588,39,Female,Seattle,Luxury Shopping and Travel,80458,Masters,Financial Advisor
+9230408,32,Male,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+8379043,32,Male,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+12143459,45,Male,New York,"Family Vacations, Kids Education, Home Essentials",75105,MBA,Financial Advisor
+7113549,32,Female,New York,"Family Vacations, Kids Education, Home Essentials",75000,MBA,Financial Advisor
+14907704,34,Male,Los Angeles,Luxury Shopping and Travel,104999,MBA,Engineer
+1298888,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+13326308,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+11533786,32,Male,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+16044134,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+6320007,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+3294737,32,Male,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+7935121,45,Male,New York,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Financial Advisor
+2002346,32,Male,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+9448759,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Financial Advisor
+2211781,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+11184549,32,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+10458342,32,Female,Los Angeles,Tech Gadgets,113815,MBA,Engineer
+9399294,32,Male,Los Angeles,Tech Gadgets,125000,Masters,Engineer
+5386219,32,Female,Los Angeles,Tech Gadgets,125000,Masters,Financial Advisor
+11209055,32,Female,Los Angeles,Luxury Shopping and Travel,113827,MBA,Financial Advisor
+10479721,32,Female,Los Angeles,Tech Gadgets,125000,Masters,Financial Advisor
+10901859,45,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Engineer
+4611162,32,Female,Los Angeles,Tech Gadgets,125000,Masters,Engineer
+15883643,32,Female,Los Angeles,Tech Gadgets,125000,Masters,Engineer
+10323294,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Financial Advisor
+8631668,37,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Financial Advisor
+796278,45,Male,Seattle,"Gaming, Tech Gadgets,Streaming Subscriptions",82820,Masters,Financial Advisor
+15126908,45,Female,New York,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Financial Advisor
+14929039,44,Female,Los Angeles,Tech Gadgets,125000,Masters,Financial Advisor
+13581015,42,Male,Los Angeles,Luxury Shopping and Travel,109160,Masters,Travel blogger
+466085,32,Female,New York,Tech Gadgets,125000,Masters,Engineer
+13189097,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,MBA,Financial Advisor
+4994944,45,Female,Los Angeles,"Gaming, Tech Gadgets,Streaming Subscriptions",99815,Masters,Engineer
+15524420,45,Male,New York,"Family Vacations, Kids Education, Home Essentials",75000,MBA,Engineer
+8409103,38,Male,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+14062559,45,Female,New York,"Flights, Hotels, Adventure Activities, Leisure",116508,Masters,Engineer
+15513722,32,Male,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+1554698,32,Female,New York,"Flights, Hotels, Adventure Activities, Leisure",124046,Masters,Engineer
+8653512,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,MBA,Financial Advisor
+8426360,32,Male,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+11327026,32,Female,Seattle,"Gaming, Tech Gadgets,Streaming Subscriptions",85189,MBA,Financial Advisor
+14777130,32,Male,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+14928739,45,Female,Portland,"Family Vacations, Kids Education, Home Essentials",76715,Masters,Financial Advisor
+9995770,38,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Financial Advisor
+7626339,32,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Engineer
+4795612,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Financial Advisor
+1799696,39,Female,New York,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Financial Advisor
+3823462,40,Male,New York,"Flights, Hotels, Adventure Activities, Leisure",119416,MBA,Financial Advisor
+10540416,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Financial Advisor
+9446155,32,Male,Seattle,"Gaming, Tech Gadgets,Streaming Subscriptions",86318,Masters,Engineer
+4961981,32,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Financial Advisor
+4680499,32,Male,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Financial Advisor
+4148100,45,Female,New York,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Financial Advisor
+8829344,32,Female,Los Angeles,"Gaming, Tech Gadgets,Streaming Subscriptions",99176,Masters,Engineer
+15372151,32,Male,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+14266328,32,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+13651590,32,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Financial Advisor
+7976513,41,Female,Los Angeles,Tech Gadgets,109774,MBA,Engineer
+13352386,38,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,MBA,Marketing Manager
+6331128,41,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Marketing Manager
+1071141,39,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Financial Advisor
+870477,43,Male,Portland,"Flights, Hotels, Adventure Activities, Leisure",123757,MBA,Financial Advisor
+12837400,38,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+10086950,32,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,MBA,Marketing Manager
+5715092,34,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+3471898,32,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,MBA,Financial Advisor
+1302965,32,Male,Los Angeles,Luxury Shopping and Travel,104983,MBA,Travel blogger
+8990088,45,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Marketing Manager
+11191398,32,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+5068463,32,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Financial Advisor
+15202801,32,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,MBA,Financial Advisor
+13720020,32,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,MBA,Marketing Manager
+10996676,32,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+3964140,42,Female,San Francisco,Luxury Shopping and Travel,105681,Masters,Travel blogger
+6358121,32,Male,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+9541212,43,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+16369070,32,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+6329742,32,Male,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+15608328,35,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+4582307,42,Female,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,MBA,Financial Advisor
+13598707,32,Male,Portland,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Financial Advisor
+3892217,32,Female,Seattle,"Gaming, Tech Gadgets,Streaming Subscriptions",86365,Masters,Marketing Manager
+6065634,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+8160367,32,Male,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+1687770,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Financial Advisor
+15111685,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,MBA,Engineer
+6826800,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+4055098,32,Male,Seattle,"Gaming, Tech Gadgets,Streaming Subscriptions",84554,Masters,Marketing Manager
+16161099,32,Female,San Francisco,Luxury Shopping and Travel,100693,Masters,Travel blogger
+51973,32,Female,Seattle,Tech Gadgets,80835,Masters,Marketing Manager
+12638618,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+4471470,44,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+585465,45,Male,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,MBA,Marketing Manager
+5832663,45,Female,New York,Luxury Shopping and Travel,101599,Masters,Travel blogger
+809346,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",122407,MBA,Engineer
+8962039,38,Male,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+3760724,37,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+14579626,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Marketing Manager
+7745687,45,Male,San Francisco,Luxury Shopping and Travel,107661,MBA,Travel blogger
+4751440,39,Male,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+1082821,45,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,MBA,Engineer
+10017325,32,Male,New York,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Marketing Manager
+11539350,32,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",81522,Masters,Marketing Manager
+4927149,32,Female,San Francisco,"Flights, Hotels, Adventure Activities, Leisure",125000,Masters,Engineer
+15611530,37,Male,San Francisco,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+621227,37,Male,San Francisco,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+5920850,45,Female,San Francisco,Tech Gadgets,125000,MBA,Financial Advisor
+16301754,32,Male,San Francisco,Tech Gadgets,125000,Masters,Engineer
+1558285,45,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+2260542,45,Female,New York,Tech Gadgets,107896,Masters,Engineer
+12186753,32,Female,San Francisco,Luxury Shopping and Travel,125000,Masters,Engineer
+8452947,32,Female,San Francisco,Luxury Shopping and Travel,125000,Masters,Engineer
+478163,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+15838831,34,Male,San Francisco,Tech Gadgets,112997,Masters,Engineer
+3467804,32,Male,New York,"Gaming, Tech Gadgets,Streaming Subscriptions",90912,Masters,Marketing Manager
+955243,32,Female,San Francisco,Luxury Shopping and Travel,125000,Masters,Engineer
+15905086,32,Female,San Francisco,Tech Gadgets,125000,MBA,Engineer
+7334876,45,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,Masters,Marketing Manager
+14297553,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+7974726,45,Male,San Francisco,"Family Vacations, Kids Education, Home Essentials",111571,Masters,Financial Advisor
+2276425,44,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+6553926,37,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+5406355,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+14704555,39,Male,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Financial Advisor
+2944328,38,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,MBA,Marketing Manager
+2622724,45,Male,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+2478712,45,Female,New York,"Family Vacations, Kids Education, Home Essentials",75834,Masters,Marketing Manager
+7702411,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",120635,MBA,Engineer
+4857673,36,Male,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+1981133,45,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+14016442,40,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+8596917,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,MBA,Marketing Manager
+13667844,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+1891641,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+9072219,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+15574983,32,Male,San Francisco,"Family Vacations, Kids Education, Home Essentials",115465,MBA,Financial Advisor
+206476,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+12882135,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+16466708,45,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+15834146,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",115440,Masters,Engineer
+15261165,32,Male,New York,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Marketing Manager
+9953207,45,Male,New York,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Marketing Manager
+4075676,36,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+14306642,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+12934361,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",117918,MBA,Engineer
+872765,34,Female,New York,Luxury Shopping and Travel,103502,MBA,Travel blogger
+11910132,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+16636986,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+1642120,36,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+14445918,40,Female,New York,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Marketing Manager
+6234887,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+7702657,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Financial Advisor
+14057619,45,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Marketing Manager
+1977924,32,Male,San Francisco,Tech Gadgets,105258,Masters,Engineer
+13504162,45,Female,New York,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Marketing Manager
+5653593,45,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+16620116,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+14921659,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",110980,Masters,Financial Advisor
+16029722,36,Female,New York,Luxury Shopping and Travel,102078,MBA,Travel blogger
+16525691,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Financial Advisor
+3452418,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Financial Advisor
+11178094,32,Female,New York,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Marketing Manager
+5747667,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+13930177,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+6644539,32,Male,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Marketing Manager
+14804553,45,Male,Los Angeles,"Gaming, Tech Gadgets,Streaming Subscriptions",98603,Graduate,Financial Advisor
+13187466,33,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Financial Advisor
+4155054,32,Female,New York,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+10576039,44,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+2808596,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Financial Advisor
+11609518,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Financial Advisor
+4151438,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+8157225,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+4143358,32,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+15525180,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+6982521,33,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+11739566,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+16632773,33,Male,Denver,"Family Vacations, Kids Education, Home Essentials",122666,Masters,Engineer
+15632668,45,Female,Denver,"Family Vacations, Kids Education, Home Essentials",122935,MBA,Financial Advisor
+10223442,45,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+10957161,32,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+451767,40,Female,Los Angeles,Luxury Shopping and Travel,109506,Masters,Travel blogger
+11036514,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",112429,MBA,Financial Advisor
+6000990,32,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+16696201,45,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+13599598,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+4368848,32,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+12888539,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Financial Advisor
+2862730,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+16353554,35,Male,Los Angeles,Tech Gadgets,104808,Masters,Engineer
+11307799,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+5004447,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+4495876,41,Female,Denver,"Family Vacations, Kids Education, Home Essentials",123642,Masters,Engineer
+6581927,32,Female,Denver,Tech Gadgets,125000,MBA,Engineer
+15423138,32,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+13045637,32,Male,Denver,Tech Gadgets,125000,Masters,Engineer
+6067983,45,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+12017528,32,Female,Los Angeles,Luxury Shopping and Travel,97206,Graduate,Financial Advisor
+384746,33,Male,Denver,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+9942214,32,Female,San Francisco,Tech Gadgets,87661,Graduate,Engineer
+4985306,32,Female,Los Angeles,Luxury Shopping and Travel,107098,Masters,Travel blogger
+4737740,45,Female,Denver,Tech Gadgets,125000,MBA,Financial Advisor
+3868178,45,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+15473202,32,Male,Los Angeles,Tech Gadgets,96809,Graduate,Financial Advisor
+14223330,44,Female,Denver,Tech Gadgets,125000,Masters,Engineer
+10269124,32,Female,San Francisco,Tech Gadgets,80041,Graduate,Engineer
+8330512,45,Female,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+4957244,42,Female,Denver,Tech Gadgets,125000,MBA,Engineer
+14622881,32,Female,Denver,Tech Gadgets,125000,Masters,Engineer
+5724484,40,Female,Denver,"Healthcare, Fixed Deposits, Insurance",116745,MBA,Re
+5698277,32,Male,Denver,"Healthcare, Fixed Deposits, Insurance",116338,MBA,Wealth Manager
+35064,39,Female,Denver,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+6132325,45,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",122999,MBA,Engineer
+14153064,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+6714219,33,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",117166,MBA,Wealth Manager
+16150260,34,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Engineer
+7317514,45,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+6144183,45,Female,New York,Luxury Shopping and Travel,86979,Graduate,Engineer
+6409145,32,Male,Portland,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+14134602,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Engineer
+2165472,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+8288368,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",111129,Masters,Wealth Manager
+16013044,35,Female,Los Angeles,Tech Gadgets,94800,Graduate,Engineer
+5583240,43,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Financial Advisor
+9734568,44,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+4733443,34,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Financial Advisor
+2938524,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+1560346,43,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Engineer
+1834270,45,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",117511,Masters,Wealth Manager
+8022057,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+11342145,36,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+16673741,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+16138359,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+4848197,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+5580316,40,Female,San Francisco,Luxury Shopping and Travel,83763,Graduate,Engineer
+7791834,32,Female,San Francisco,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+11448174,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+12124588,38,Male,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Financial Advisor
+4634167,32,Male,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+10130183,45,Male,New York,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+3851427,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+8113616,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Engineer
+4495386,45,Male,New York,Luxury Shopping and Travel,85864,Graduate,Financial Advisor
+12407719,44,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Financial Advisor
+9947351,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+7089573,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+8259565,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+685135,32,Female,New York,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+15255756,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",119856,Masters,Wealth Manager
+11005358,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Financial Advisor
+4053604,35,Male,Denver,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+2898011,32,Male,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Engineer
+4149981,45,Male,Denver,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+3438923,42,Male,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Financial Advisor
+1262670,32,Female,Denver,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+2570465,40,Female,Denver,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+1681813,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+4425251,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Financial Advisor
+15706324,32,Male,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+10716372,45,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+13568891,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+3194605,32,Male,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",93078,Graduate,Engineer
+2877824,32,Male,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+2213716,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Engineer
+3037055,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Financial Advisor
+11456263,34,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+13558563,32,Female,Seattle,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Financial Advisor
+8710504,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",114765,Masters,Wealth Manager
+7621448,32,Male,Austin,"Fine Dining, Luxury Travels, High- End Gadgets",89172,Graduate,Financial Advisor
+8705563,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+10883037,41,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+12961015,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Financial Advisor
+7870704,34,Male,Austin,"Fine Dining, Luxury Travels, High- End Gadgets",87415,Graduate,Financial Advisor
+12427786,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+10963990,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+9704117,32,Male,Austin,"Fine Dining, Luxury Travels, High- End Gadgets",84241,Graduate,Engineer
+624127,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Financial Advisor
+10479312,40,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+6917687,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+9742396,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+11686981,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+5296720,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+11801900,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+11361642,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+13098774,39,Female,Los Angeles,"Fine Dining, Luxury Travels, High- End Gadgets",98599,Graduate,Engineer
+686549,40,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Engineer
+5372753,37,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+14559549,40,Female,Denver,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+12332657,32,Male,Denver,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+6968247,33,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+12029912,45,Male,Denver,"Family Vacations, Kids Education, Home Essentials",75000,Graduate,Engineer
+12252717,43,Male,Denver,Tech Gadgets,75000,Graduate,Financial Advisor
+4578191,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Engineer
+14256050,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",125000,MBA,Engineer
+8531623,43,Male,Denver,Tech Gadgets,75000,Graduate,Engineer
+15230512,45,Female,Denver,Tech Gadgets,75000,Graduate,Engineer
+11977321,45,Female,Austin,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+6501161,45,Male,Austin,"Healthcare, Fixed Deposits, Insurance",122054,Masters,Financial Advisor
+15351314,40,Female,Austin,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+9208630,32,Female,San Francisco,Tech Gadgets,75000,Graduate,Engineer
+2006015,32,Female,Austin,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+9091918,32,Male,Austin,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+13106271,41,Female,Los Angeles,Tech Gadgets,108026,Masters,Financial Advisor
+457659,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Financial Advisor
+9434453,45,Female,Austin,"Healthcare, Fixed Deposits, Insurance",78925,MBA,Engineer
+3282005,45,Male,Austin,"Healthcare, Fixed Deposits, Insurance",79111,MBA,Financial Advisor
+16647005,45,Male,Austin,"Healthcare, Fixed Deposits, Insurance",77109,MBA,Engineer
+8220965,32,Female,Austin,"Healthcare, Fixed Deposits, Insurance",79911,Masters,Engineer
+756824,32,Female,Austin,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Engineer
+853418,32,Female,Austin,"Healthcare, Fixed Deposits, Insurance",125000,Masters,Financial Advisor
+13504229,36,Female,San Francisco,Luxury Shopping and Travel,100818,MBA,Travel blogger
+4686837,32,Male,Austin,Tech Gadgets,125000,Masters,Engineer
+15586073,32,Female,Austin,Tech Gadgets,125000,MBA,Engineer
+2417573,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Financial Advisor
+107596,32,Male,Austin,Tech Gadgets,125000,Masters,Engineer
+1315783,32,Male,Austin,"Healthcare, Fixed Deposits, Insurance",78786,Masters,Engineer
+3590717,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",97872,Masters,Financial Advisor
+2983206,45,Female,Austin,Tech Gadgets,125000,Masters,Engineer
+7192245,33,Female,Austin,Tech Gadgets,125000,Masters,Financial Advisor
+14703012,32,Female,Austin,Luxury Shopping and Travel,125000,MBA,Engineer
+15143185,32,Male,San Francisco,Tech Gadgets,109969,Masters,Financial Advisor
+6368992,33,Female,Austin,Tech Gadgets,125000,Masters,CEO
+12900492,34,Male,New York,"Fine Dining, Luxury Travels, High- End Gadgets",94343,MBA,Engineer
+15788813,34,Male,Austin,Luxury Shopping and Travel,121322,Masters,CEO
+16438310,32,Female,San Francisco,Tech Gadgets,103465,MBA,Engineer
+12065945,45,Male,New York,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Financial Advisor
+14274359,32,Female,New York,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Financial Advisor
+6050840,32,Female,San Francisco,Tech Gadgets,125000,Masters,CEO
+12383879,32,Female,San Francisco,Luxury Shopping and Travel,125000,Masters,CEO
+12243745,32,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+6356098,32,Male,New York,"Fine Dining, Luxury Travels, High- End Gadgets",99067,MBA,Financial Advisor
+11491189,32,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+9577809,32,Female,San Francisco,Tech Gadgets,106977,Masters,Financial Advisor
+2210307,32,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+5338867,32,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+8856553,32,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+2406631,32,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+12993639,32,Male,Dallas,Luxury Shopping and Travel,125000,Masters,CEO
+7993292,32,Male,Dallas,Luxury Shopping and Travel,125000,MBA,CEO
+8419506,33,Male,Dallas,Tech Gadgets,125000,Masters,CEO
+12285926,45,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",89383,MBA,Engineer
+2096113,45,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Engineer
+6912643,45,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Financial Advisor
+5461112,45,Female,Boston,"Fine Dining, Luxury Travels, High- End Gadgets",91531,Masters,Marketing Manager
+14659408,32,Male,Dallas,Tech Gadgets,125000,MBA,CEO
+14109730,32,Male,Dallas,Tech Gadgets,117271,Masters,Engineer
+3579969,32,Female,Dallas,Luxury Shopping and Travel,125000,Masters,CEO
+2920163,45,Female,Dallas,Tech Gadgets,125000,MBA,CEO
+13243334,37,Female,Dallas,Tech Gadgets,125000,MBA,CEO
+15661060,32,Female,Dallas,Luxury Shopping and Travel,125000,Masters,CEO
+14914033,32,Female,Dallas,Luxury Shopping and Travel,125000,MBA,CEO
+1573102,32,Male,Dallas,Luxury Shopping and Travel,112449,Masters,Travel blogger
+7303178,32,Male,New York,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+15014937,42,Male,Dallas,Luxury Shopping and Travel,125000,MBA,CEO
+13639278,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+2339980,45,Female,Dallas,Tech Gadgets,125000,MBA,CEO
+14899102,45,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+6006248,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+12526094,39,Male,Dallas,Luxury Shopping and Travel,125000,Masters,CEO
+10306586,32,Female,Dallas,Luxury Shopping and Travel,125000,MBA,CEO
+10333813,32,Male,Dallas,Luxury Shopping and Travel,122371,MBA,CEO
+10262274,32,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+4399361,32,Female,Dallas,Luxury Shopping and Travel,125000,MBA,CEO
+5582855,32,Male,Dallas,Tech Gadgets,125000,Masters,CEO
+11909630,32,Female,Dallas,Luxury Shopping and Travel,119289,MBA,Travel blogger
+12920663,41,Female,Dallas,Tech Gadgets,125000,MBA,CEO
+12450908,45,Female,Boston,Luxury Shopping and Travel,106168,MBA,Travel blogger
+13964897,32,Female,Dallas,Tech Gadgets,125000,MBA,CEO
+9801217,32,Female,Boston,"Fine Dining, Luxury Travels, High- End Gadgets",91429,MBA,Marketing Manager
+10393280,32,Female,Dallas,Luxury Shopping and Travel,125000,Masters,CEO
+690833,32,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+10039603,45,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+12534477,36,Female,Dallas,Tech Gadgets,125000,Masters,Financial Advisor
+6051056,44,Male,New York,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+2917141,45,Female,Dallas,Luxury Shopping and Travel,121954,MBA,Financial Advisor
+129846,45,Male,San Francisco,Luxury Shopping and Travel,125000,Masters,Engineer
+14528621,32,Female,San Francisco,Tech Gadgets,115898,Masters,Financial Advisor
+2126712,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+2704144,32,Male,San Francisco,Tech Gadgets,125000,Masters,Financial Advisor
+2628389,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+3366521,35,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+11328892,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+15432109,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+2435489,32,Female,San Francisco,Tech Gadgets,125000,MBA,Engineer
+7163770,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+16240600,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+5681441,45,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+12526129,37,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Marketing Manager
+5508988,32,Female,San Francisco,Luxury Shopping and Travel,125000,MBA,Engineer
+11178593,41,Male,New York,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+7979578,32,Female,Boston,Tech Gadgets,109415,Masters,Engineer
+5476430,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Marketing Manager
+775918,45,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Marketing Manager
+9687028,32,Female,San Francisco,Luxury Shopping and Travel,125000,MBA,Financial Advisor
+10123478,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+2821179,33,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+13119538,32,Female,San Francisco,Tech Gadgets,125000,MBA,Engineer
+14916140,45,Male,New York,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Marketing Manager
+9689692,34,Male,Minneapolis,Tech Gadgets,125000,Masters,Financial Advisor
+3166880,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+10912296,35,Female,Minneapolis,Tech Gadgets,117735,Masters,Engineer
+8606226,32,Female,Boston,Luxury Shopping and Travel,100260,MBA,Financial Advisor
+1152095,32,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+1696555,35,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+644565,32,Male,Boston,"Fine Dining, Luxury Travels, High- End Gadgets",99591,MBA,Marketing Manager
+8142023,32,Male,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+6787851,32,Female,Boston,Tech Gadgets,109169,MBA,Financial Advisor
+8508491,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+4708668,32,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Marketing Manager
+14480038,45,Female,Minneapolis,Tech Gadgets,122588,Masters,Financial Advisor
+12972665,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+4801883,45,Male,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+1736605,34,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+5493730,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+3285478,32,Male,Minneapolis,Tech Gadgets,125000,MBA,Financial Advisor
+11397825,45,Female,New York,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+2595917,32,Female,New York,"Fine Dining, Luxury Travels, High- End Gadgets",83654,MBA,Marketing Manager
+10603350,37,Male,San Francisco,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Marketing Manager
+11582324,32,Female,Minneapolis,Tech Gadgets,125000,MBA,Engineer
+16571057,32,Female,Boston,Luxury Shopping and Travel,108200,Masters,Travel blogger
+16396246,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+13538641,32,Female,Minneapolis,Tech Gadgets,125000,MBA,Engineer
+11614306,45,Female,New York,"Fine Dining, Luxury Travels, High- End Gadgets",83089,MBA,Marketing Manager
+9140920,32,Female,Minneapolis,Luxury Shopping and Travel,125000,Masters,Engineer
+8329689,32,Male,Minneapolis,Tech Gadgets,113024,Masters,Engineer
+8207598,32,Female,Minneapolis,Luxury Shopping and Travel,120054,Masters,Engineer
+1644170,32,Male,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+315950,32,Male,Minneapolis,Tech Gadgets,123444,Masters,Financial Advisor
+2235687,32,Male,Minneapolis,Tech Gadgets,125000,MBA,Engineer
+11429108,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Financial Advisor
+10566517,32,Female,Minneapolis,Tech Gadgets,118218,Masters,Engineer
+7790575,32,Female,Boston,Luxury Shopping and Travel,103455,Masters,Engineer
+914731,32,Female,Minneapolis,Luxury Shopping and Travel,125000,Masters,Engineer
+15190663,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+1677987,45,Male,Minneapolis,Tech Gadgets,125000,MBA,Engineer
+16077261,32,Female,Minneapolis,Luxury Shopping and Travel,125000,MBA,Engineer
+11475797,32,Female,Minneapolis,Tech Gadgets,125000,MBA,Engineer
+14515111,32,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+12529513,32,Female,Minneapolis,Luxury Shopping and Travel,125000,Masters,Engineer
+9161577,32,Male,Minneapolis,Tech Gadgets,121253,MBA,Financial Advisor
+5976458,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+5586156,45,Female,Minneapolis,Luxury Shopping and Travel,125000,MBA,Financial Advisor
+15633477,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+9427144,36,Female,Minneapolis,Tech Gadgets,125000,MBA,Financial Advisor
+9765213,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+14937412,32,Male,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+15195177,45,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+15293003,32,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Marketing Manager
+13979791,45,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Marketing Manager
+4935402,32,Male,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+9021791,33,Female,San Francisco,"Healthcare, Fixed Deposits, Insurance",79203,Masters,Marketing Manager
+4761931,34,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Marketing Manager
+12967752,32,Female,Minneapolis,Luxury Shopping and Travel,115864,MBA,Engineer
+2704696,32,Female,Minneapolis,Luxury Shopping and Travel,125000,Masters,Engineer
+7417486,43,Female,New York,Tech Gadgets,80473,Masters,Marketing Manager
+1621002,32,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Marketing Manager
+11696183,35,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75061,Graduate,Marketing Manager
+7414327,32,Male,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+13330580,32,Female,Minneapolis,Tech Gadgets,125000,MBA,Engineer
+2767257,32,Male,Minneapolis,Luxury Shopping and Travel,125000,Masters,Engineer
+3061954,32,Female,Boston,Tech Gadgets,109389,Masters,Financial Advisor
+11771190,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",90517,Graduate,Marketing Manager
+5242097,45,Male,Minneapolis,Luxury Shopping and Travel,111412,MBA,Financial Advisor
+6547038,32,Female,Minneapolis,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+438328,32,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Marketing Manager
+2433432,32,Male,Minneapolis,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+6251137,36,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Marketing Manager
+13259695,32,Female,Minneapolis,Tech Gadgets,125000,MBA,Engineer
+6872150,35,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Marketing Manager
+5614583,33,Female,Minneapolis,Luxury Shopping and Travel,125000,Masters,Engineer
+16581016,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+13375529,32,Male,Minneapolis,Tech Gadgets,125000,Masters,Financial Advisor
+13609612,44,Female,Minneapolis,Luxury Shopping and Travel,125000,MBA,Engineer
+5652030,32,Male,Minneapolis,Luxury Shopping and Travel,113295,MBA,Financial Advisor
+8848033,45,Male,Boston,"Fine Dining, Luxury Travels, High- End Gadgets",97935,Graduate,Marketing Manager
+2730866,32,Female,Minneapolis,Luxury Shopping and Travel,124026,MBA,Financial Advisor
+7353228,35,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+3915856,35,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Marketing Manager
+2766361,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+3648177,45,Female,Boston,Tech Gadgets,107977,Masters,Engineer
+5072652,37,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Marketing Manager
+4208728,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+9826568,32,Male,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+7472538,32,Female,Minneapolis,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+9111976,41,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Marketing Manager
+7768575,32,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Marketing Manager
+2727527,32,Male,Minneapolis,Luxury Shopping and Travel,125000,Masters,Engineer
+1370618,42,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",83768,Graduate,Marketing Manager
+13802455,35,Male,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+10936357,45,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Marketing Manager
+9681981,45,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Marketing Manager
+3100197,38,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Marketing Manager
+15145270,32,Female,Minneapolis,Luxury Shopping and Travel,125000,Masters,Engineer
+7864136,38,Male,Minneapolis,Tech Gadgets,125000,MBA,Engineer
+13658721,32,Female,Minneapolis,Tech Gadgets,125000,Masters,Engineer
+13549029,32,Male,Minneapolis,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+13123113,38,Male,San Francisco,Tech Gadgets,125000,MBA,Engineer
+3427485,34,Female,San Francisco,Luxury Shopping and Travel,125000,Masters,Engineer
+12740940,32,Female,San Francisco,Tech Gadgets,110740,MBA,Engineer
+6936466,45,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Engineer
+5563947,45,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Graduate,Financial Advisor
+13201167,45,Female,San Francisco,Tech Gadgets,117555,Masters,Engineer
+15906479,32,Male,San Francisco,Luxury Shopping and Travel,125000,Masters,Engineer
+3748120,32,Male,Boston,"Fine Dining, Luxury Travels, High- End Gadgets",91174,MBA,Engineer
+1296305,32,Male,San Francisco,Tech Gadgets,125000,Masters,Engineer
+6281949,45,Female,Boston,"Fine Dining, Luxury Travels, High- End Gadgets",92904,Masters,Engineer
+3051883,32,Female,Seattle,"Fine Dining, Luxury Travels, High- End Gadgets",89727,Masters,Engineer
+15429056,42,Female,San Francisco,Tech Gadgets,113469,Masters,Financial Advisor
+16581844,39,Female,San Francisco,Luxury Shopping and Travel,121738,MBA,Engineer
+5344905,32,Female,Denver,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Financial Advisor
+6244714,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+6292764,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+15519758,45,Female,San Francisco,Tech Gadgets,110812,MBA,Financial Advisor
+4288318,32,Female,San Francisco,Tech Gadgets,117485,Masters,Financial Advisor
+9621336,32,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Financial Advisor
+6897421,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+13640331,32,Female,Boston,"Fine Dining, Luxury Travels, High- End Gadgets",93539,MBA,Engineer
+5325896,32,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Engineer
+11837365,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+15897908,32,Male,San Francisco,Tech Gadgets,125000,Masters,Engineer
+2480096,43,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,Masters,Financial Advisor
+8170646,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+8592744,32,Male,Boston,Luxury Shopping and Travel,101208,Masters,Financial Advisor
+13625729,32,Male,San Francisco,Tech Gadgets,125000,MBA,Engineer
+8951275,32,Female,San Francisco,Tech Gadgets,121573,MBA,Engineer
+9448957,32,Female,Seattle,"Fine Dining, Luxury Travels, High- End Gadgets",84395,MBA,Engineer
+136229,32,Male,San Francisco,Luxury Shopping and Travel,125000,MBA,Engineer
+1691906,32,Male,San Francisco,Tech Gadgets,125000,MBA,Engineer
+16088329,32,Male,San Francisco,Tech Gadgets,111072,Masters,Engineer
+3083,40,Male,San Francisco,Luxury Shopping and Travel,114188,Masters,Financial Advisor
+10760730,32,Male,San Francisco,Luxury Shopping and Travel,125000,MBA,Financial Advisor
+6950971,39,Male,Denver,"Healthcare, Fixed Deposits, Insurance",75000,MBA,Engineer
+13574999,44,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+2608811,45,Male,Denver,Luxury Shopping and Travel,75000,MBA,Engineer
+13774164,45,Female,Denver,Luxury Shopping and Travel,75000,MBA,Engineer
+5733677,38,Female,Denver,Tech Gadgets,75000,Masters,Financial Advisor
+3785250,45,Female,San Francisco,Tech Gadgets,125000,Masters,Financial Advisor
+2015089,32,Female,San Francisco,Luxury Shopping and Travel,125000,MBA,Financial Advisor
+8188803,43,Male,Denver,Tech Gadgets,75000,MBA,Engineer
+3969661,32,Female,Seattle,"Fine Dining, Luxury Travels, High- End Gadgets",88959,MBA,Engineer
+9121322,37,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+1373308,35,Male,Denver,Luxury Shopping and Travel,75000,MBA,Financial Advisor
+6055609,32,Male,San Francisco,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+11887692,32,Female,New York,Tech Gadgets,110709,Masters,Financial Advisor
+10488261,32,Male,San Francisco,Tech Gadgets,125000,Masters,Engineer
+10704687,32,Female,Denver,Tech Gadgets,75000,Masters,Engineer
+5814460,32,Female,Denver,Luxury Shopping and Travel,75000,Masters,Financial Advisor
+5009065,32,Male,San Francisco,Tech Gadgets,125000,Masters,Engineer
+6826125,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+12603991,32,Female,San Francisco,Tech Gadgets,125000,Masters,Engineer
+14469996,32,Male,San Francisco,Tech Gadgets,125000,Masters,Financial Advisor
+12177416,32,Male,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+3400223,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Financial Advisor
+9749851,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+13540420,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Engineer
+14296820,34,Female,Denver,Luxury Shopping and Travel,75000,Masters,Financial Advisor
+3506040,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+9631329,37,Male,Denver,Luxury Shopping and Travel,75000,Masters,Engineer
+7721914,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+15703765,32,Female,Salt Lake City,Tech Gadgets,125000,MBA,Financial Advisor
+2564783,32,Male,Salt Lake City,Tech Gadgets,125000,Masters,Financial Advisor
+6910506,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Financial Advisor
+13099362,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Financial Advisor
+11313845,34,Male,Salt Lake City,Tech Gadgets,114601,MBA,Engineer
+1101243,32,Female,Salt Lake City,Tech Gadgets,125000,MBA,Engineer
+8759148,32,Male,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Engineer
+9049491,32,Male,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+3065997,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Engineer
+3273318,43,Female,Denver,Tech Gadgets,75000,MBA,Engineer
+12054340,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+1738336,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Engineer
+1382433,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+14025981,43,Female,Denver,Luxury Shopping and Travel,75000,MBA,Engineer
+14574607,32,Male,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+8613235,32,Female,Salt Lake City,Tech Gadgets,125000,MBA,Financial Advisor
+13947058,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+11969797,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+9629961,45,Male,Salt Lake City,Tech Gadgets,125000,MBA,Financial Advisor
+13558962,32,Female,Boston,Luxury Shopping and Travel,100266,MBA,Engineer
+2146525,32,Female,Salt Lake City,Tech Gadgets,120949,Masters,Engineer
+8059556,45,Male,Denver,Luxury Shopping and Travel,75000,Graduate,Financial Advisor
+419932,32,Male,Denver,Tech Gadgets,75000,Graduate,Engineer
+12768624,32,Female,Boston,Luxury Shopping and Travel,107401,Masters,Engineer
+3221501,32,Male,San Francisco,Tech Gadgets,75000,Graduate,Engineer
+2251904,37,Female,Salt Lake City,Luxury Shopping and Travel,113939,Masters,Engineer
+14105712,41,Male,San Francisco,Luxury Shopping and Travel,75000,Graduate,Financial Advisor
+11066839,32,Male,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Engineer
+12895319,39,Female,Salt Lake City,Tech Gadgets,123601,MBA,Engineer
+10447465,37,Male,San Francisco,Luxury Shopping and Travel,75000,Graduate,Financial Advisor
+16591264,45,Female,New York,Luxury Shopping and Travel,75000,Graduate,Engineer
+7183622,38,Male,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Engineer
+9362277,32,Female,San Francisco,Tech Gadgets,75000,Graduate,Engineer
+16172149,39,Male,San Francisco,Tech Gadgets,75000,Graduate,Financial Advisor
+14701866,45,Male,Salt Lake City,Tech Gadgets,120177,MBA,Engineer
+10543780,39,Female,Salt Lake City,Tech Gadgets,119090,Masters,Engineer
+2218832,32,Male,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+13705673,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Financial Advisor
+9493010,32,Female,Salt Lake City,Tech Gadgets,125000,MBA,Financial Advisor
+2605560,36,Male,Boston,"Fine Dining, Luxury Travels, High- End Gadgets",96606,Graduate,Engineer
+5145433,32,Male,San Francisco,Luxury Shopping and Travel,75000,Graduate,Engineer
+5319638,32,Male,Salt Lake City,Tech Gadgets,125000,Masters,Financial Advisor
+6559112,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+15932089,33,Female,Seattle,"Fine Dining, Luxury Travels, High- End Gadgets",89331,Graduate,Engineer
+4625970,32,Male,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Engineer
+11551049,45,Male,Salt Lake City,Tech Gadgets,113474,MBA,Engineer
+5548079,45,Male,New York,Luxury Shopping and Travel,75000,Graduate,Financial Advisor
+9477946,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+1444491,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+2125005,32,Female,Salt Lake City,Luxury Shopping and Travel,123550,Masters,Financial Advisor
+1826749,45,Female,San Francisco,Luxury Shopping and Travel,75000,Graduate,Financial Advisor
+13471253,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Engineer
+4477590,32,Male,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+5210435,32,Male,Salt Lake City,Tech Gadgets,125000,Masters,Financial Advisor
+6646468,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+14081859,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+10213139,32,Male,New York,Tech Gadgets,75000,Graduate,Financial Advisor
+2586552,45,Female,Salt Lake City,Luxury Shopping and Travel,113376,MBA,Financial Advisor
+10782258,33,Female,Seattle,Tech Gadgets,78742,Masters,Financial Advisor
+3736659,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+1052549,35,Female,Salt Lake City,Luxury Shopping and Travel,119192,Masters,Engineer
+13489880,41,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+12074807,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+10919600,33,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+14188479,41,Male,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Financial Advisor
+8627124,45,Male,Boston,"Fine Dining, Luxury Travels, High- End Gadgets",92905,MBA,Financial Advisor
+577592,36,Male,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Financial Advisor
+2530513,45,Female,San Francisco,Luxury Shopping and Travel,75000,Masters,Engineer
+5802919,32,Female,Salt Lake City,Tech Gadgets,125000,MBA,Financial Advisor
+15959577,33,Female,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Engineer
+7728724,45,Male,New York,Luxury Shopping and Travel,75000,MBA,Financial Advisor
+6412320,45,Male,Salt Lake City,Luxury Shopping and Travel,119652,Masters,Financial Advisor
+15376278,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+5498224,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+12120439,32,Male,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Engineer
+9098717,32,Female,San Francisco,Luxury Shopping and Travel,75000,Masters,Financial Advisor
+12658295,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Financial Advisor
+1178481,43,Female,New York,Tech Gadgets,75000,Masters,Financial Advisor
+8155576,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+9787288,34,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+3129909,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+7829884,45,Male,New York,Luxury Shopping and Travel,80723,Masters,Engineer
+11287989,38,Female,Salt Lake City,Tech Gadgets,117442,MBA,Engineer
+7817671,32,Female,New York,Tech Gadgets,75000,MBA,Engineer
+2600159,32,Male,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+12443507,43,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+2352715,45,Female,Salt Lake City,Tech Gadgets,125000,Masters,Financial Advisor
+687892,32,Male,Boston,Luxury Shopping and Travel,109072,MBA,Financial Advisor
+7955319,33,Female,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Engineer
+9195482,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+6961130,32,Female,San Francisco,Luxury Shopping and Travel,75000,MBA,Engineer
+11098595,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+4210323,36,Female,Boston,Luxury Shopping and Travel,100494,Masters,Financial Advisor
+10790783,45,Male,Boston,"Fine Dining, Luxury Travels, High- End Gadgets",93289,Masters,Financial Advisor
+13170934,32,Male,Salt Lake City,Tech Gadgets,125000,MBA,Engineer
+6521775,45,Male,New York,Tech Gadgets,75000,Graduate,Engineer
+9588786,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+4954573,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,Masters,Financial Advisor
+8792461,38,Male,Salt Lake City,Luxury Shopping and Travel,112561,MBA,Financial Advisor
+60030,32,Male,New York,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+8033916,45,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+538446,32,Male,Salt Lake City,Tech Gadgets,125000,MBA,Financial Advisor
+11450091,32,Male,Salt Lake City,Tech Gadgets,125000,MBA,Financial Advisor
+6710837,32,Female,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Engineer
+9080871,45,Female,New York,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+15843112,32,Male,Salt Lake City,Tech Gadgets,116684,MBA,Financial Advisor
+14344125,35,Female,Salt Lake City,Tech Gadgets,114939,Masters,Engineer
+7209188,45,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+5983093,32,Male,Salt Lake City,Luxury Shopping and Travel,125000,MBA,Financial Advisor
+8696431,34,Male,Boston,Luxury Shopping and Travel,102283,MBA,Travel blogger
+2527374,32,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+2928795,32,Female,New York,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+11662377,32,Male,Salt Lake City,Tech Gadgets,125000,Masters,Financial Advisor
+2400652,37,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",85484,Graduate,Marketing Manager
+5537217,33,Male,San Francisco,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+8865940,35,Female,Salt Lake City,Tech Gadgets,125000,Masters,Engineer
+2851813,32,Female,San Francisco,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+10297768,32,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+3409027,45,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",91673,Graduate,Marketing Manager
+2073614,45,Female,San Francisco,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+15669240,32,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+5732601,32,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",120711,Masters,Engineer
+2170626,39,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+772908,32,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+4991059,35,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+4252947,32,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+6136144,42,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+1980707,32,Male,San Francisco,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+10963255,45,Female,New York,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+16157085,32,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+10576138,45,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+1695813,34,Female,Salt Lake City,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+7696394,33,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+3152386,32,Male,New York,Tech Gadgets,109306,Masters,Financial Advisor
+6687047,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+9160254,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+15593414,42,Female,San Francisco,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+4397352,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+10696866,32,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Financial Advisor
+7923045,32,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+16483485,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+7865591,32,Female,New York,"Fine Dining, Luxury Travels, High- End Gadgets",91070,Graduate,Marketing Manager
+1693521,36,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",124498,Masters,Engineer
+2451701,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+8853108,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+13596393,36,Male,New York,"Fine Dining, Luxury Travels, High- End Gadgets",94465,Graduate,Marketing Manager
+7573383,45,Male,New York,Luxury Shopping and Travel,103953,Masters,Travel blogger
+12772279,32,Male,San Francisco,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+16136281,32,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+8593141,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",118119,MBA,Travel blogger
+13130441,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+2590815,45,Male,San Francisco,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+4080335,32,Male,San Francisco,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+11074386,44,Male,Chicago,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+7219599,45,Female,San Francisco,Luxury Shopping and Travel,107027,Masters,Travel blogger
+255847,32,Female,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Engineer
+14584508,33,Male,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Financial Advisor
+5645408,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+13918195,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+14808663,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+14510643,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+10884121,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,Financial Advisor
+9622693,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Engineer
+7752153,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+13357267,32,Male,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,Financial Advisor
+3932719,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,CEO
+12282206,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",122304,MBA,Engineer
+853459,37,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,CEO
+9269595,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,CEO
+7276312,43,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,CEO
+953500,32,Male,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,CEO
+2911175,32,Male,San Francisco,Luxury Shopping and Travel,106004,Masters,Travel blogger
+14302174,45,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,CEO
+13973201,33,Male,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,CEO
+4091504,32,Female,San Francisco,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+11120086,32,Female,New York,"Professional Development, Wellness, Family activities",75758,Graduate,Marketing Manager
+293910,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,CEO
+443045,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,CEO
+5838122,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,CEO
+3015258,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",118405,Masters,Travel blogger
+5420667,32,Male,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,CEO
+11701918,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,CEO
+5215086,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,CEO
+11543622,32,Male,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,MBA,CEO
+10458841,32,Female,Dallas,"Fine Dining, Luxury Travels, High- End Gadgets",125000,Masters,CEO
+6477132,32,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+2491365,45,Female,Dallas,Tech Gadgets,117901,MBA,Engineer
+10424884,32,Male,San Francisco,"Fine Dining, Luxury Travels, High- End Gadgets",93826,Graduate,Marketing Manager
+14160064,45,Male,New York,Luxury Shopping and Travel,103821,Masters,Travel blogger
+14018954,32,Female,Dallas,Tech Gadgets,125000,Masters,CEO
+11588866,33,Male,New York,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+14009012,33,Female,Dallas,Luxury Shopping and Travel,123965,Masters,CEO
+15129222,45,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,MBA,CEO
+7721531,32,Male,Chicago,Luxury Shopping and Travel,106275,MBA,Travel blogger
+7513978,34,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+13291423,32,Female,Chicago,"Professional Development, Wellness, Family activities",75000,Graduate,Marketing Manager
+15722376,32,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+12573310,32,Male,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+2822949,42,Male,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+7049815,32,Female,Chicago,Tech Gadgets,103078,MBA,Engineer
+5450397,32,Male,Chicago,"Professional Development, Wellness, Family activities",76578,Graduate,Marketing Manager
+10346614,42,Female,New York,Tech Gadgets,81658,Graduate,Marketing Manager
+14791300,33,Female,Chicago,"Professional Development, Wellness, Family activities",76321,Graduate,Marketing Manager
+8922444,32,Male,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Financial Advisor
+14404624,32,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+14738578,32,Female,Austin,"Gaming, Tech Gadgets,Streaming Subscriptions",83286,Masters,Marketing Manager
+11213725,32,Female,Chicago,Luxury Shopping and Travel,104311,MBA,Travel blogger
+8126231,32,Male,Austin,"Gaming, Tech Gadgets,Streaming Subscriptions",89371,Masters,Marketing Manager
+5479678,32,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Financial Advisor
+16449447,32,Male,Chicago,"Gaming, Tech Gadgets,Streaming Subscriptions",98410,MBA,Marketing Manager
+8223219,32,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",120955,Masters,Engineer
+13292026,44,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",122460,Masters,Financial Advisor
+14031563,44,Male,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+16580731,32,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",118131,Masters,Financial Advisor
+2711130,32,Female,Chicago,Tech Gadgets,105455,Masters,Financial Advisor
+11548278,32,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+11803264,32,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Financial Advisor
+5472697,32,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+9791715,32,Male,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+14245238,32,Female,Chicago,"Professional Development, Wellness, Family activities",75361,MBA,Marketing Manager
+4972571,41,Female,Chicago,"Professional Development, Wellness, Family activities",75000,Masters,Marketing Manager
+10585848,45,Male,Dallas,"Family Vacations, Kids Education, Home Essentials",119919,Masters,Engineer
+14173177,45,Male,Chicago,"Professional Development, Wellness, Family activities",75000,MBA,Marketing Manager
+8469196,32,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Financial Advisor
+14686952,32,Male,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+14303971,45,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+16582968,45,Male,Chicago,"Professional Development, Wellness, Family activities",75000,Masters,Marketing Manager
+10305685,42,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",90657,Masters,Marketing Manager
+4635542,37,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,Masters,Engineer
+12591731,32,Female,Dallas,"Family Vacations, Kids Education, Home Essentials",125000,MBA,Engineer
+3791287,32,Male,Dallas,"Family Vacations, Kids Education, Home Essentials",115843,Masters,Engineer
+2291222,45,Female,Austin,"Professional Development, Wellness, Family activities",77114,MBA,Marketing Manager
+14239566,33,Female,Dallas,Tech Gadgets,125000,MBA,Engineer
+14031046,37,Male,Chicago,"Professional Development, Wellness, Family activities",76096,MBA,Financial Advisor
+16221072,41,Male,Dallas,Tech Gadgets,125000,Masters,Engineer
+12268090,32,Male,Dallas,Luxury Shopping and Travel,124982,Masters,Engineer
+3362405,45,Male,Chicago,"Gaming, Tech Gadgets,Streaming Subscriptions",99056,MBA,Financial Advisor
+15540469,45,Male,Dallas,Luxury Shopping and Travel,125000,MBA,Engineer
+14805004,32,Female,Austin,"Gaming, Tech Gadgets,Streaming Subscriptions",81062,MBA,Financial Advisor
+1200765,45,Male,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",114687,MBA,Social Media Influencer
+2632478,32,Female,Chicago,Luxury Shopping and Travel,100259,Masters,Engineer
+4022288,32,Female,San Francisco,Tech Gadgets,125000,MBA,Engineer
+3667395,40,Female,San Francisco,"Gaming, Tech Gadgets,Streaming Subscriptions",113491,Masters,Social Media Influencer
+12239554,32,Male,San Francisco,Luxury Shopping and Travel,125000,Masters,Engineer
+5629370,32,Male,San Francisco,Luxury Shopping and Travel,125000,Masters,Financial Advisor
