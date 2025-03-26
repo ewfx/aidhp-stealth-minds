@@ -39,19 +39,27 @@ Step-by-step code implementation
 Step 1: Install dependencies
 
 Step 2: Data Preparation
+
 	a. Generate Synthetic Data
+ 
  	b. Data Preprocessing
+  
 	c. Multi-Modal Feature Engineering
 
 Step 3: Build a RAG-Based Recommender
+
 	a. Generate Vector embeddings using all-mpnet-base-v2
+ 
 	b. Set Up Vector Database (FAISS)
+ 
 	c. Retrieve Recommendations with RAG using Mistral (LLM)	
 
 Step 4: Streamlit Frontend
+
 	a. Launch Interactive UI
 
 Step 5: Ethical Checks
+
 	a. Bias Detection
 
 Step 6 : Benchmarking
