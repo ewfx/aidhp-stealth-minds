@@ -2,7 +2,7 @@ import pytest
 import pandas as pd
 import numpy as np
 from unittest.mock import patch, MagicMock
-from app import load_data, check_bias, run_benchmarking, generate_recommendation
+#from app import load_data, check_bias, run_benchmarking, generate_recommendation
 
 @pytest.fixture
 def sample_data():
@@ -24,20 +24,20 @@ def test_load_data(sample_data):
         mock_read.side_effect = [
             sample_data,  # customer_profiles.csv
             pd.DataFrame({
-                'customer_id': ['1', '2', '3'], 
+                'customer_id': ['1', '2', '3'],
                 'sentiment_score': [3.5, 4.2, 2.8],
                 'content': ['a', 'b', 'c']
             }),  # social_media.csv
             pd.DataFrame({
-                'customer_id': ['1', '2', '3'], 
+                'customer_id': ['1', '2', '3'],
                 'amount': [150, 300, 200],
                 'category': ['A', 'B', 'C']
             })  # transactions.csv
         ]
-        
+
         with patch('sentence_transformers.SentenceTransformer.encode') as mock_encode:
             mock_encode.return_value = np.random.rand(3, 768).tolist()
-            
+
             result = load_data()
             assert isinstance(result, pd.DataFrame)
             assert 'embedding' in result.columns
@@ -54,7 +54,7 @@ def test_check_bias(sample_data):
 def test_run_benchmarking(sample_data):
     sample_data['embedding'] = [[0.1]*768]*3
     benchmarks = run_benchmarking(sample_data)
-    
+
     assert isinstance(benchmarks, dict)
     required_keys = ['cf_rmse', 'xgb_mae', 'baseline_mae', 'improvement_pct', 'variance_explained']
     assert all(key in benchmarks for key in required_keys)
@@ -63,7 +63,7 @@ def test_run_benchmarking(sample_data):
 def test_generate_recommendation():
     mock_pipe = MagicMock()
     mock_pipe.return_value = [{'generated_text': "Test output [/INST] Final recommendation"}]
-    
+
     customer_data = {
         'age': 35,
         'income': 75000,
@@ -71,7 +71,7 @@ def test_generate_recommendation():
         'interests': 'Tech, Travel',
         'sentiment_score': 4.2
     }
-    
+
     result = generate_recommendation(mock_pipe, customer_data)
     assert result == "Final recommendation"
     assert mock_pipe.call_count == 1
