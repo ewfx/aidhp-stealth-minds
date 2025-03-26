@@ -67,20 +67,22 @@ Step 6 : Benchmarking
 ## 🚧 Challenges We Faced and how we tackled
 •	Dataset limitations as the dataset were readily available we used artificial data synthesizer to generate the data using CTGANSynthesizer and SingleTableMetadata
 
+•	Mistral model with T4 GPU was consuming too much of time to generate recommendation for a single customer record and as part of optimization we used 4 bit quantization and max_new_tokens is set to 256
+
 •	Multi-Modal Data Handling: handling structured and unstructured text data.
 
 •	Efficient Retrieval in RAG: Used all-mpnet-base-v2 over distilbert-base-uncased for better embeddings and FAISS for faster retrieving of index.
 
 •	Used Mistral or GPT2 for better recommendations 
 
-•	Ethical Considerations: Ensuring fairness in recommendations.
+•	Ethical Considerations: Ensuring fairness in recommendations using aif360.
 
 •	LLM Constraints: Avoiding paid APIs and focusing on open-source models.
 
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ewfx/aidhp-stealth-minds
    ```
 2. Install dependencies  
    ```sh
