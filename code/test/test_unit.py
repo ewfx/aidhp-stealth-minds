@@ -2,7 +2,7 @@ import pytest
 import pandas as pd
 import numpy as np
 from unittest.mock import patch, MagicMock
-#from app import load_data, check_bias, run_benchmarking, generate_recommendation
+from app import load_data, check_bias, run_benchmarking, generate_recommendation
 
 @pytest.fixture
 def sample_data():
@@ -18,27 +18,32 @@ def sample_data():
         'content': ['Great service', 'Not happy', 'Average'],
         'interests': ['Tech', 'Sports', 'Food']
     })
-
 def test_load_data(sample_data):
+    # Remove 'content' from customer profiles mock data
+    customer_profiles_mock = sample_data.drop(columns=['content'])
+   
     with patch('pandas.read_csv') as mock_read:
         mock_read.side_effect = [
-            sample_data,  # customer_profiles.csv
-            pd.DataFrame({
+            customer_profiles_mock,  # customer_profiles.csv
+            pd.DataFrame({  # social_media.csv
                 'customer_id': ['1', '2', '3'],
                 'sentiment_score': [3.5, 4.2, 2.8],
                 'content': ['a', 'b', 'c']
-            }),  # social_media.csv
-            pd.DataFrame({
+            }),
+            pd.DataFrame({  # transactions.csv
                 'customer_id': ['1', '2', '3'],
                 'amount': [150, 300, 200],
                 'category': ['A', 'B', 'C']
-            })  # transactions.csv
+            })
         ]
 
-        with patch('sentence_transformers.SentenceTransformer.encode') as mock_encode:
-            mock_encode.return_value = np.random.rand(3, 768).tolist()
+        with patch('sentence_transformers.SentenceTransformer') as mock_model:
+            mock_instance = mock_model.return_value
+            mock_instance.encode.return_value = np.random.rand(3, 768).tolist()
 
             result = load_data()
+            assert 'content' in result.columns  # Verify merged content exists
+            # Rest of assertions...
             assert isinstance(result, pd.DataFrame)
             assert 'embedding' in result.columns
             assert result['customer_id'].dtype == 'object'  # Check string type
